@@ -1,0 +1,21 @@
+body{ 
+    
+    background-color: blue;
+}
+h1{
+    color: white;
+    padding-left: 20px;
+}
+img{
+    padding-left: 20px; ;
+}
+p{
+    color: yellow;
+    padding-left: 20px;
+    font-size: 20px;
+}
+marquee{
+    font-size:xx-large;
+    font-weight: bolder;
+    color: white;
+}
